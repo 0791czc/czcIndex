@@ -1,0 +1,36 @@
+/*index.css*/
+body{
+	height: 2000px;
+}
+#container{
+	height: 100%;
+	padding-top: 100px;
+}
+.container-nav{
+	/*height: 100px;*/
+}
+.container-nav .navbar{
+	/*height: 100px;*/
+}
+.context1{
+	padding-top: 50px;
+}
+.context1-left{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+.context2{
+	padding-top: 100px;
+}
+.context3{
+	padding: 100px 0;
+}
+.context4 img{
+	width: 100%;
+}
+.carousel-indicators li{
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+}
